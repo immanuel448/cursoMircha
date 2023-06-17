@@ -1,0 +1,134 @@
+commit 4202c41ed07d921c4f31d64575d87f484e1d6321
+Merge: 177016c e7b6716
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Thu Jun 15 23:31:03 2023 -0600
+
+     nuevo?
+
+commit 177016c96e2af53c99beb2a9bf27597180c73790
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Thu Jun 15 19:28:17 2023 -0600
+
+    estaciones del año más conflicto
+
+commit e7b671600ea8e3c4443c8efc311eef8318ad4a2b
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Thu Jun 15 19:28:17 2023 -0600
+
+    estaciones del año
+
+commit 3445e91e01546e353c0c80c07ed5efd27c4d8042
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Sat Jun 10 21:47:11 2023 -0600
+
+    se linkea el archivo de js
+
+commit 53c921a72736d0ba6efd6020e10ae26487fb724b
+Merge: caa97f3 798fd67
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Sat Jun 10 19:04:52 2023 -0600
+
+    se resolvieron conflictos con el merge
+
+commit 798fd67917aeca4815357518b5bc24b194da1c3e
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Sat Jun 10 18:54:47 2023 -0600
+
+    se agrega el link al js y una lista ordenada
+
+commit caa97f308d96708d32bc42a2011ca8e8defe1047
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Sat Jun 10 18:51:20 2023 -0600
+
+    se agrega una lista
+
+commit 4f89cbe0d7af68aec999033983d41e93444ce040
+Merge: c8f79b7 88f9971
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Sat Jun 10 18:21:11 2023 -0600
+
+    Merge branch 'js'
+
+commit 88f9971f224114eb15242c59247c820dbef4f0bc
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Sat Jun 10 17:26:51 2023 -0600
+
+    se ha creado un archivo js en una nueva rama 3ra
+
+commit c8f79b75b415cc30f77161ba0abb2ff0d9bd45a7
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Sat Jun 10 17:15:14 2023 -0600
+
+    segundo guardado para cs
+
+commit 2bef340cc2a1b5c5a8500b52ecd765084606d72c
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Sat Jun 10 17:12:24 2023 -0600
+
+    se ha creado el style en una nueva ramma
+
+commit bc31147b673fa66ca9cd03ed998d6a61db40306a
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Sat Jun 10 00:30:13 2023 -0600
+
+    se creo una rama y un archivo en ésta
+
+commit 6ba501895a02fdfee398654331c708494d6e9eff
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Sat Jun 10 00:15:36 2023 -0600
+
+    intentando ignorar 2.0
+
+commit 7b1baa0cce5b1646f5a03068187492ef63dcb1da
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Sat Jun 10 00:12:06 2023 -0600
+
+    borrando un archivo
+
+commit 1f4d430acd9ee736a89ba5328c417b2bbafdd901
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Sat Jun 10 00:08:56 2023 -0600
+
+    intentando ignorar cuatro
+
+commit d445aa9424040076f9953274e3ce8b628755ec1a
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Sat Jun 10 00:07:43 2023 -0600
+
+    intentando ignorar tres
+
+commit 342ed7dddb3c2f68f2fe5b428adef7d6aca6e38a
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Sat Jun 10 00:07:19 2023 -0600
+
+    intentando ignorar dos
+
+commit 072bba8bb71543cb536233771f72c02cab3ef026
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Sat Jun 10 00:05:33 2023 -0600
+
+    intentando ignorar
+
+commit 2453128110509073f7cdaa55aeb899fc01215f59
+Author: immanuel448 <116685492+immanuel448@users.noreply.github.com>
+Date:   Fri Jun 9 19:45:28 2023 -0600
+
+    creando licencia de repositorio
+
+commit d1b9760552058b90da980d5320d1456e65413b0e
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Fri Jun 9 19:35:40 2023 -0600
+
+    se añadió texto al README
+
+commit e212e4d4e754b1597477dd1e781ef6f7958d070d
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Fri Jun 9 19:14:44 2023 -0600
+
+    segundo
+
+commit ae4a534ae695d39e48a8e95b8027f14ba4b968b7
+Author: Emmanuel Mendoza <emmanuelmendoza448@gmail.com>
+Date:   Fri Jun 9 18:53:51 2023 -0600
+
+    mi primer comit, tengo un add pendiente
